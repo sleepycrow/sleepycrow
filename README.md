@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Z<sup>Z<sup>Z</sup></sup></h1>
+<h2 align="center">Hi, I'm sleepycrow!</h2>
+
+* 🔭 **I’m currently working on** Quatro-FE and another, secret project!
+* 🌱 **I’m currently learning** Vue 3 and Elixir
+* 😄 **Pronouns**: he/him! :>
+* 📫 **You can reach me** via e-mail, at sleepycrow\[a\]posteo.net
 
 <!--
 **sleepycrow/sleepycrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
