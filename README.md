@@ -1,8 +1,8 @@
 <h1 align="center">Z<sup>Z<sup>Z</sup></sup></h1>
-<h2 align="center">Hi, I'm sleepycrow!</h2>
+<h3 align="center">Hi, I'm sleepycrow!</h2>
 
-* 🔭 **I’m currently working on** a Pleroma frontend and another, secret project!
-* 🌱 **I’m currently learning** Vue 3 and Elixir
+* 🔭 **I’m currently working on** a Pleroma fork, and a new Pleroma frontend!
+* 🌱 **I’m currently learning** Elixir
 * 😄 **Pronouns**: he/him! :>
 * 📫 **You can reach me** via e-mail, at sleepycrow\[a\]posteo.net
 
