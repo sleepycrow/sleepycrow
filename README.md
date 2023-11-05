@@ -1,10 +1,9 @@
 <h1 align="center">Z<sup>Z<sup>Z</sup></sup></h1>
 <h3 align="center">Hi, I'm sleepycrow!</h2>
 
-* 🔭 **I’m currently working on** a Pleroma fork, and a new Pleroma frontend!
-* 🌱 **I’m currently learning** Elixir
+* 🔭 **I’m currently working on**: [Artcafe](https://github.com/sleepycrow/artcafe), an art-centric pleroma fork, and a new frontend for it!
+* 🌱 **I’m currently learning**: Elixir
 * 😄 **Pronouns**: he/him! :>
-* 📫 **You can reach me** via e-mail, at sleepycrow\[a\]posteo.net
 
 <!--
 **sleepycrow/sleepycrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
